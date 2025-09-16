@@ -1,5 +1,5 @@
 # Meme Generator Project
-## User Scenario
+
 
 **Welcome to my first Frontend project!**
 
