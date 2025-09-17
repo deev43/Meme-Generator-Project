@@ -13,3 +13,25 @@
 
 **I hope you enjoy it!**
 </p>
+
+## User Story
+<ol>
+  <li>
+    User should be able to click button on the right side of the screen to generate a random meme, joke, quote or riddle
+  </li>
+  <li>
+    Only one piece of content should displayed at a time. e.g If the user clicks 'Show a meme' and there is a quote that showing already, the application should remove the quote and display a random meme.
+  </li>
+  <li>
+    Content should be displayed under the appropriate heading(i.e a joke should not show up under the memes heading) So every content must displayed under the relevant heading.
+  </li>
+  <li>
+    When showing a random riddle, the answer should never be revealed without the user explicitly clicks the button "Reveal Riddle Answer".
+  </li>
+  <li>
+    If a user clicks "Reveal Riddle Answer" and there is no riddle, an alert should let them know they need to generate a riddle first.
+  </li>
+  <li>
+    If a user clicks "Reveal Riddle Answer" and the answer already revealed, an alert should let them know that the answer is already revealed.
+  </li>
+</ol>
